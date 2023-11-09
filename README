@@ -1,0 +1,2 @@
+# This is a work in progress python project that has the eventual goal of being used for image processing. I aim to have a black and white, colour blind, and potentially colour isolations functions to be imported and used #
+# by users. Currently I am using the stdio modules from Princeton and much of their code as a base for my project. Best of luck and happy coding. -Mikhail Ukrainetz #
